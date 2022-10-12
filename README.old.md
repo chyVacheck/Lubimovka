@@ -1,3 +1,0 @@
-# Lubimovka
-
-\*heikkeB
