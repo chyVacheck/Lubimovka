@@ -1,17 +1,30 @@
 # Lubimovka
+
 ## Проект Любимовка
-___
+
+---
+
 ## Немного о проекте
+
     Однастроничный сайт
     Позже здесь будет инфрмация
-___
+
+---
+
 ## Ссылка на сайт - [Lubimovka]()
+
     Покачто сайт не выложен в просмотр
-___
+
+---
+
 ## Функциональность
+
     Позже здесь будет информация о функциональности сайта
-___
+
+---
+
 ## Что использовалось ?
+
     HTML:
       - позже здесь будет инфрмация
     CSS:
@@ -20,15 +33,31 @@ ___
       - позже здесь будет инфрмация
     React:
       - позже здесь будет инфрмация
-___
+
+---
+
 ## Как писалось ?
+
     С божьей помощью (шутка)
-___
+
+---
+
 ### Над проектом трудились:
-  - [Андрей](https://github.com/DocMoro)
-  - [Дима](https://github.com/chyVacheck)
-  - [Азиз](https://github.com/MorphineMePlz)
-  - [Иван](https://github.com/Ivan1Vasilyev)
-  - [Влад](https://github.com/HeikkeB)
+
+- [Андрей](https://github.com/DocMoro)
+- [Дима](https://github.com/chyVacheck)
+- [Азиз](https://github.com/MorphineMePlz)
+- [Иван](https://github.com/Ivan1Vasilyev)
+- [Влад](https://github.com/HeikkeB)
 
 > ###### люди распологаються в хаоичном порядке, каждый внес свой неотъемлимый вклад
+>
+> Footer
+> © 2022 GitHub, Inc.
+> Footer navigation
+> Terms
+> Privacy
+> Security
+> Status
+> Docs
+> Contact GitHub
