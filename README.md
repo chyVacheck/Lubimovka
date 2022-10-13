@@ -31,4 +31,9 @@ ___
   - [Иван](https://github.com/Ivan1Vasilyev)
   - [Влад](https://github.com/HeikkeB)
 
+<<<<<<< HEAD
 > ###### люди распологаються в хаоичном порядке, каждый внес свой неотъемлимый вклад
+=======
+\*heikkeB
+\*hh
+>>>>>>> bceae1728547f6326ae91bdcaceb156dab56e808
