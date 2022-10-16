@@ -1,8 +1,10 @@
 import Header from './../header/Header.js';
 import Main from './../main/Main.js';
 import Footer from './../footer/Footer.js';
-import Title from '../title/Title';
-import GreenPlace from '../ColoredPlace/ColoredPlace.js';
+import ColoredPlace from '../ColoredPlace/ColoredPlace.js';
+import ShiftedText from '../ShiftedText/ShiftedText.js';
+import Paragraph from '../Parargaph/Paragraph.js';
+import Container from '../Container/Container.js';
 
 function App() {
   return (
@@ -12,8 +14,13 @@ function App() {
       {/* основная часть */}
       <Main>
         <ColoredPlace>
-          <Title text="О проекте" />{' '}
-          {/*TODO этот заголовок должен поместиться потом в компонент ЗТ */}
+          <Container maxWidth="720px" padding="80px 201px 120px 0px">
+            <ShiftedText
+              titleText="О проекте"
+              text="За первый сезон проекта организаторы провели 17 мероприятий вместе с режиссёрами и актёрами московских театров: Театра.doc, Театрального Центра им. Вс. Мейерхольда, Гоголь-центра, Электротеатра «Станиславский», Ленкома."
+              isFeature={true}
+            />
+          </Container>
         </ColoredPlace>
       </Main>
       {/* подвал */}
