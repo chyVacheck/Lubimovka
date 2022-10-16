@@ -2,7 +2,7 @@ import Header from './../header/Header.js';
 import Main from './../main/Main.js';
 import Footer from './../footer/Footer.js';
 import Title from '../title/Title';
-import GreenPlace from '../GreenPlace/GreenPlace.js';
+import GreenPlace from '../ColoredPlace/ColoredPlace.js';
 
 function App() {
   return (
@@ -11,9 +11,10 @@ function App() {
       <Header />
       {/* основная часть */}
       <Main>
-        <GreenPlace>
-          <Title text="О проекте" /> {/*TODO этот заголовок должен поместиться потом в компонент ЗТ */}
-        </GreenPlace>
+        <ColoredPlace>
+          <Title text="О проекте" />{' '}
+          {/*TODO этот заголовок должен поместиться потом в компонент ЗТ */}
+        </ColoredPlace>
       </Main>
       {/* подвал */}
       <Footer />
