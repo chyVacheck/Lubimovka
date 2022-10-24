@@ -1,0 +1,22 @@
+.paragraph {
+  font-style: normal;
+  font-weight: 300;
+  font-size: 20px;
+  line-height: 1.4;
+  letter-spacing: -0.01em;
+  color: #242424;
+  margin: 0;
+}
+
+.paragraph_middle {
+  line-height: 1.2;
+  font-weight: 300;
+}
+
+.paragraph_little {
+  font-size: 16px;
+}
+
+.paragraph_feature {
+  font-feature-settings: 'ss01' on;
+}
