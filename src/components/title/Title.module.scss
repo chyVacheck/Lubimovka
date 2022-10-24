@@ -1,0 +1,17 @@
+.title {
+  /*todo: изменить шрифт впоследствии на Neue Machina*/
+  font-family: sans-serif;
+  margin: 0;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 40px;
+  line-height: 40px;
+
+  /*todo: когда будет цвета подключены в App удалить*/
+  color: #242424;
+}
+
+.title_bigsize {
+  font-size: 72px;
+  line-height: 70px;
+}
