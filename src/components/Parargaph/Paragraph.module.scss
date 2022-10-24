@@ -1,6 +1,11 @@
+$fontFaceFormular: 'Formular';
+$fontWeightLight: 300;
+$fontStyleNormal: normal;
+
 .paragraph {
-  font-style: normal;
-  font-weight: 300;
+  font-family: $fontFaceFormular;
+  font-style: $fontStyleNormal;
+  font-weight: $fontWeightLight;
   font-size: 20px;
   line-height: 1.4;
   letter-spacing: -0.01em;

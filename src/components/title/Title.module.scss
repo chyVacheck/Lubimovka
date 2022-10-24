@@ -1,9 +1,14 @@
+$fontFaceNeueMachina: 'Neue Machina';
+$fontWeightNormal: normal;
+$fontStyleNormal: normal;
+
 .title {
-  /*todo: изменить шрифт впоследствии на Neue Machina*/
-  font-family: sans-serif;
+  font-family: $fontFaceNeueMachina;
+  font-weight: $fontWeightNormal;
+  font-style: $fontStyleNormal;
+
   margin: 0;
-  font-style: normal;
-  font-weight: 400;
+
   font-size: 40px;
   line-height: 40px;
 

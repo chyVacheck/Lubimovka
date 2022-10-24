@@ -1,0 +1,34 @@
+@font-face {
+  font-family: 'Formular';
+  src: url('Formular-Light.eot');
+  src: local('Formular-Light'),
+    url('./Formular-Light.eot') format('embedded-opentype'),
+    url('./Formular-Light.woff2') format('woff2'),
+    url('./Formular-Light.woff') format('woff'),
+    url('./Formular-Light.ttf') format('truetype');
+  font-weight: 300;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Formular';
+  src: url('Formular.eot');
+  src: local('Formular'), url('./Formular.eot') format('embedded-opentype'),
+    url('./Formular.woff2') format('woff2'),
+    url('./Formular.woff') format('woff'),
+    url('./Formular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Neue Machina';
+  src: url('NeueMachina-Regular.eot');
+  src: local('NeueMachina-Regular'),
+    url('./NeueMachina-Regular.eot') format('embedded-opentype'),
+    url('./NeueMachina-Regular.woff2') format('woff2'),
+    url('./NeueMachina-Regular.woff') format('woff'),
+    url('./NeueMachina-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
