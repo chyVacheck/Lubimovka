@@ -1,3 +1,10 @@
+$fontFaceNeueMachina: 'Neue Machina';
+$fontWeightNormal: normal;
+$fontStyleNormal: normal;
+
 .active {
-  background-color:aqua;
+  background-color: aqua;
+  font-family: $fontFaceNeueMachina;
+  font-weight: $fontWeightNormal;
+  font-style: $fontStyleNormal;
 }
